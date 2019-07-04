@@ -71,5 +71,16 @@ function random($length,$a) { 		$str = ""; 		if ($a == 0) { 			$characters = arr
 echo "\n";
 echo "BERES EUYY!!!\n";
 echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "\n";
+echo "LO NGENTOT\n";
 }
 ?>
